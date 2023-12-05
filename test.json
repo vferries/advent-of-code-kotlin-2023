@@ -1,0 +1,29 @@
+{
+  "oid": "f1c0760d89e2482581d9c90d66728a1c",
+  "meta": {
+    "points": 50,
+    "challenge_id": "paid_content",
+    "name": "Paid+Content",
+    "description": "Pay+for+things+you+want!+(2.0!!!)",
+    "prompt": "You+must+be+a+paid+user+to+proceed.",
+    "category": {
+      "value": "client_side_protections",
+      "name": "Client-side+Protections"
+    },
+    "console_message": "[Paid+Content]:+This+challenge+got+a+minor+update+for+the+2023+holidays.+It's+version+2.0.+It's+(2+*+challenge)!",
+    "mobile_friendly": false,
+    "encoded": true,
+    "error_msg": "You're+not+a+paid+user.",
+    "version": "2.0",
+    "inputs": [],
+    "retired": false,
+    "bin_hashes": null
+  },
+  "solved": false,
+  "js_file": "CmZ1bmN0aW9uIF8weDc1MTkoXzB4MTNmNWRjLF8weDNmOThiOSl7Y29uc3QgXzB4Y2U2MzcyPV8weGNlNjMoKTtyZXR1cm4gXzB4NzUxOT1mdW5jdGlvbihfMHg3NTE5MjcsXzB4MjkxMzFlKXtfMHg3NTE5Mjc9XzB4NzUxOTI3LTB4MTk2O2xldCBfMHgyMjk0Y2I9XzB4Y2U2MzcyW18weDc1MTkyN107cmV0dXJuIF8weDIyOTRjYjt9LF8weDc1MTkoXzB4MTNmNWRjLF8weDNmOThiOSk7fWZ1bmN0aW9uIF8weGNlNjMoKXtjb25zdCBfMHhiOGRhNTY9WycxMDgzNDM4d2t2aGJGJywnNTc4NTc0MGlMRmlrSicsJzM3OTQzNTVSd09SWmQnLCcyNTkzMzg0anB4aHlVJywnNDE5OTE2MHhDY3B0cycsJzg3NjQwNmpVeGRSeicsJzdRb0JieWMnLCdEZWZlcnJlZCcsJ3Jlc29sdmUnLCdjaGFsbGVuZ2UnLCcyODY3MjQxa0dzcEdYJywnUGFpZENvbnRlbnQnLCcyQ25YTEJiJ107XzB4Y2U2Mz1mdW5jdGlvbigpe3JldHVybiBfMHhiOGRhNTY7fTtyZXR1cm4gXzB4Y2U2MygpO30oZnVuY3Rpb24oXzB4NWQwYzVlLF8weDU1MzQ5Yil7Y29uc3QgXzB4MjgxMzJkPV8weDc1MTksXzB4M2E1NzYzPV8weDVkMGM1ZSgpO3doaWxlKCEhW10pe3RyeXtjb25zdCBfMHgyOGFiNzE9cGFyc2VJbnQoXzB4MjgxMzJkKDB4MTk3KSkvMHgxKigtcGFyc2VJbnQoXzB4MjgxMzJkKDB4MTlkKSkvMHgyKSstcGFyc2VJbnQoXzB4MjgxMzJkKDB4MWEyKSkvMHgzK3BhcnNlSW50KF8weDI4MTMyZCgweDE5YykpLzB4NCtwYXJzZUludChfMHgyODEzMmQoMHgxOTkpKS8weDUrcGFyc2VJbnQoXzB4MjgxMzJkKDB4MTk4KSkvMHg2K3BhcnNlSW50KF8weDI4MTMyZCgweDE5ZSkpLzB4NyooLXBhcnNlSW50KF8weDI4MTMyZCgweDE5YikpLzB4OCkrcGFyc2VJbnQoXzB4MjgxMzJkKDB4MTlhKSkvMHg5O2lmKF8weDI4YWI3MT09PV8weDU1MzQ5YilicmVhaztlbHNlIF8weDNhNTc2M1sncHVzaCddKF8weDNhNTc2M1snc2hpZnQnXSgpKTt9Y2F0Y2goXzB4NTRkODA3KXtfMHgzYTU3NjNbJ3B1c2gnXShfMHgzYTU3NjNbJ3NoaWZ0J10oKSk7fX19KF8weGNlNjMsMHg5ZjVlYyksKGZ1bmN0aW9uKCl7Y29uc3QgXzB4MTU4NWU1PV8weDc1MTk7d2luZG93W18weDE1ODVlNSgweDE5NildPWZ1bmN0aW9uKF8weDFiZDEzNixfMHg0OTBjZGUpe2NvbnN0IF8weDI2MWU0OD1fMHgxNTg1ZTU7aWYoXzB4NDkwY2RlPT09J3RhZy5jaGFsbGVuZ2Uub3Blbicpe2xldCBfMHgyOTBkNGM9JFtfMHgyNjFlNDgoMHgxOWYpXSgpO3JldHVybiBfMHgyOTBkNGNbXzB4MjYxZTQ4KDB4MWEwKV0oKTt9ZWxzZXtpZihfMHg0OTBjZGU9PT0ndGFnLmNoYWxsZW5nZS5zdWJtaXQnKXJldHVybiBzZWNfZnVuY19uYW1lX3BhaWRfY29udGVudChfMHgxYmQxMzYpO31sZXQgXzB4MmNhMzJjPSRbXzB4MjYxZTQ4KDB4MTlmKV0oKTtyZXR1cm4gXzB4MmNhMzJjW18weDI2MWU0OCgweDFhMCldKCk7fSx3aW5kb3dbJ3NlY19mdW5jX25hbWVfcGFpZF9jb250ZW50J109ZnVuY3Rpb24oXzB4M2VmZWJlKXtjb25zdCBfMHg4NDVmYjI9XzB4MTU4NWU1O2xldCBfMHg1ZDkyZWE9JFtfMHg4NDVmYjIoMHgxOWYpXSgpLF8weDE1OWI0Mj1fMHgzZWZlYmVbXzB4ODQ1ZmIyKDB4MWExKV1bJ2NoYWxsZW5nZSddKjB4MjtyZXR1cm4gXzB4M2VmZWJlW18weDg0NWZiMigweDFhMSldWydyZXNwb25zZSddPV8weDE1OWI0MixfMHg1ZDkyZWFbXzB4ODQ1ZmIyKDB4MWEwKV0oSlNPTlsnc3RyaW5naWZ5J10oXzB4M2VmZWJlW18weDg0NWZiMigweDFhMSldKSk7fTt9KCkpKTsK",
+  "js_function": "PaidContent",
+  "num_solves": 1961,
+  "paid": false,
+  "challenge": 2116,
+  "response": 4232
+}
