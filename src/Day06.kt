@@ -1,18 +1,13 @@
 import java.math.BigInteger
-import java.math.BigInteger.ONE
-import java.math.BigInteger.ZERO
-import kotlin.system.measureTimeMillis
 
 fun main() {
     val input = readInput("day06")
     part1(input).println()
-    println("total for part to " + measureTimeMillis {
-        part2(input).println()
-    } + "ms")
+    part2(input).println()
 }
 
 
-private fun part1(input: List<String>): Int {
+fun part1(input: List<String>): Int {
     val races = parseRaces(input)
     return races.map(::margins).fold(1, Int::times)
 }
@@ -43,13 +38,8 @@ fun margins(race: Pair<Int, Int>): Int {
 
 fun margins(race: Pair<BigInteger, BigInteger>): BigInteger {
     val (time, best) = race
-    var timePressed = ONE
-    var total = ZERO
-    while (timePressed <= time) {
-        if (timePressed * (time - timePressed) > best) {
-            total += ONE
-        }
-        timePressed += ONE
-    }
-    return total
+    val delta = time.pow(2) - 4.toBigInteger() * best
+    val s1 = (time + delta.sqrt()) / 2.toBigInteger()
+    val s2 = (time - delta.sqrt()) / 2.toBigInteger()
+    return s1 - s2
 }
