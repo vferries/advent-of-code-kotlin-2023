@@ -14,6 +14,6 @@ class InfiTest {
 
     @Test
     fun `Should correctly compute minimum radius for first sample part2`() {
-        Package.fromString("(0, 4), (3, -2), (-1, -2), (-2, 0)").minRadius shouldBe 3.400367
+        Package.fromString("(0, 4), (3, -2), (-1, -2), (-2, 0)").minRadius shouldBe 3.400367627183861
     }
 }
